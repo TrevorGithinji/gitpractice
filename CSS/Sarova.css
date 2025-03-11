@@ -1,0 +1,11 @@
+.hero{
+    background-image: url('../images/River.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.bruv{
+    width: 75%;
+    margin:auto;
+}
