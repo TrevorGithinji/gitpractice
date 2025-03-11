@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4ae56438-880d-43f9-9421-8a1b06ed5989" name="Changes" comment="new files">
+      <change afterPath="$PROJECT_DIR$/images/River.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/land.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sarova.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sarova.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/intro.html" beforeDir="false" afterPath="$PROJECT_DIR$/intro.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;TrevorGithinji&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/TrevorGithinji/gitpractice.git&quot;,
+    &quot;accountId&quot;: &quot;173a53b7-1a0c-4d72-a41c-ab681cb6e3b2&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2tsvOhX6UGZp5I2WBCuaQmwGBQC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "slave",
+    "last_opened_file_path": "/home/emobilis/Desktop/Trevor Git practice/images",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-76f8388c3a79-JavaScript-PY-243.24978.54" />
+        <option value="bundled-python-sdk-91e3b7efe1d4-466328ff949b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.24978.54" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4ae56438-880d-43f9-9421-8a1b06ed5989" name="Changes" comment="" />
+      <created>1741153566812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1741153566812</updated>
+      <workItem from="1741153569099" duration="5659000" />
+      <workItem from="1741231598632" duration="133000" />
+      <workItem from="1741243297351" duration="3148000" />
+      <workItem from="1741259668369" duration="36000" />
+      <workItem from="1741326035945" duration="7105000" />
+      <workItem from="1741345233473" duration="35000" />
+      <workItem from="1741661034813" duration="2835000" />
+    </task>
+    <task id="LOCAL-00001" summary="Practicing Git commands">
+      <option name="closed" value="true" />
+      <created>1741155120537</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1741155120537</updated>
+    </task>
+    <task id="LOCAL-00002" summary="added more files">
+      <option name="closed" value="true" />
+      <created>1741155304894</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1741155304894</updated>
+    </task>
+    <task id="LOCAL-00003" summary="updated the title">
+      <option name="closed" value="true" />
+      <created>1741155536201</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1741155536201</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added content">
+      <option name="closed" value="true" />
+      <created>1741156138208</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1741156138208</updated>
+    </task>
+    <task id="LOCAL-00005" summary="added a heading">
+      <option name="closed" value="true" />
+      <created>1741156505298</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1741156505298</updated>
+    </task>
+    <task id="LOCAL-00006" summary="added a new paragraph">
+      <option name="closed" value="true" />
+      <created>1741157945636</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1741157945636</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added something">
+      <option name="closed" value="true" />
+      <created>1741243325817</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1741243325817</updated>
+    </task>
+    <task id="LOCAL-00008" summary="new p">
+      <option name="closed" value="true" />
+      <created>1741244984675</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1741244984675</updated>
+    </task>
+    <task id="LOCAL-00009" summary="new head">
+      <option name="closed" value="true" />
+      <created>1741245039348</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741245039348</updated>
+    </task>
+    <task id="LOCAL-00010" summary="boot strap practice">
+      <option name="closed" value="true" />
+      <created>1741246599631</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1741246599631</updated>
+    </task>
+    <task id="LOCAL-00011" summary="boot strap intro">
+      <option name="closed" value="true" />
+      <created>1741327052915</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1741327052915</updated>
+    </task>
+    <task id="LOCAL-00012" summary="boot strap classes">
+      <option name="closed" value="true" />
+      <created>1741329876353</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1741329876353</updated>
+    </task>
+    <task id="LOCAL-00013" summary="responsive bootstrap design">
+      <option name="closed" value="true" />
+      <created>1741333112168</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1741333112168</updated>
+    </task>
+    <task id="LOCAL-00014" summary="new files">
+      <option name="closed" value="true" />
+      <created>1741661867032</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1741661867032</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Practicing Git commands" />
+    <MESSAGE value="added more files" />
+    <MESSAGE value="updated the title" />
+    <MESSAGE value="added content" />
+    <MESSAGE value="added a heading" />
+    <MESSAGE value="paragraph" />
+    <MESSAGE value="added a new paragraph" />
+    <MESSAGE value="shortened paragraphs" />
+    <MESSAGE value="added something" />
+    <MESSAGE value="new p" />
+    <MESSAGE value="new head" />
+    <MESSAGE value="boot strap practice" />
+    <MESSAGE value="boot strap intro" />
+    <MESSAGE value="boot strap classes" />
+    <MESSAGE value="responsive bootstrap design" />
+    <MESSAGE value="new files" />
+    <option name="LAST_COMMIT_MESSAGE" value="new files" />
+  </component>
+</project>

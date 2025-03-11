@@ -1,0 +1,21 @@
+Index: index2.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>mihuevo.why</title>\n</head>\n\n<body>\n<h1>Linga gu!</h1>\n\n<h4>Lorem ipsum yuhuiu dolor.</h4>\n\n<p>linga guli guli nguli wasta linga gu linga gu!</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius, in.</p>\n<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos eligendi est expedita maxime modi molestiae officiis, ut?</p>\n\n</body>\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/index2.html b/index2.html
+--- a/index2.html	(revision d19e4d6eccef53f53db48a29b8c11501c4e801b4)
++++ b/index2.html	(date 1741158561461)
+@@ -12,7 +12,8 @@
+ 
+ <p>linga guli guli nguli wasta linga gu linga gu!</p>
+ <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius, in.</p>
+-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos eligendi est expedita maxime modi molestiae officiis, ut?</p>
++<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dignissimos eligendi est ut?</p>
++<p>Lorem ipsum dolor sit amet, lingia it. Dignissimos eligendi est ut?</p>
+ 
+ </body>
+ </html>
+\ No newline at end of file
