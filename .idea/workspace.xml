@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ae56438-880d-43f9-9421-8a1b06ed5989" name="Changes" comment="sarova improved">
-      <change afterPath="$PROJECT_DIR$/images/facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/youtube.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CSS/Sarova.css" beforeDir="false" afterPath="$PROJECT_DIR$/CSS/Sarova.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sarova.html" beforeDir="false" afterPath="$PROJECT_DIR$/Sarova.html" afterDir="false" />
-    </list>
+    <list default="true" id="4ae56438-880d-43f9-9421-8a1b06ed5989" name="Changes" comment="sarova footer section added" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +97,7 @@
       <workItem from="1741661034813" duration="7880000" />
       <workItem from="1741691309926" duration="8000" />
       <workItem from="1741691326818" duration="45000" />
-      <workItem from="1741759243966" duration="4396000" />
+      <workItem from="1741759243966" duration="5699000" />
     </task>
     <task id="LOCAL-00001" summary="Practicing Git commands">
       <option name="closed" value="true" />
@@ -242,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741679747382</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="sarova footer section added">
+      <option name="closed" value="true" />
+      <created>1741763663729</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1741763663730</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,6 +280,7 @@
     <MESSAGE value="Sarova website replicate" />
     <MESSAGE value="images" />
     <MESSAGE value="sarova improved" />
-    <option name="LAST_COMMIT_MESSAGE" value="sarova improved" />
+    <MESSAGE value="sarova footer section added" />
+    <option name="LAST_COMMIT_MESSAGE" value="sarova footer section added" />
   </component>
 </project>
